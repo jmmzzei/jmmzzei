@@ -1,5 +1,5 @@
 ## Hi there! I'm José María 👋
-### I have __30__ projects, here is a list with the most relevant ones:
+### Here is a list with the most relevant projects that I have:
 
 - [budget-admin](https://github.com/jmmzzei/budget-admin): Web app for keeping record of your incomes and outcomes. Front and back are together in this monorepo.
 Technologies: React, Sass and Material-UI in the front, Node (Express), Sequelize and Postgres.
